@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to right, gold, white, silver);
+    padding: 10px;
+    font-size: 25px;
+    height: 25px;
+}
+
+.link-nav {
+    padding: 125px;
+}
+
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(38, 175, 180, 0.432);
+}
+
+footer {
+    background-color: rgba(38, 175, 180, 0.603);
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.social {
+    margin-left: 10px;
+}
+
+li {
+    padding: 2px;
+}
